@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Kidus</h1>
+
+<h1 align="center">## Hi there 👋, I'm Kidus</h1>
 <h3 align="center">A passionate C# developer</h3>
 
 
